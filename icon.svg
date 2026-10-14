@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Aeternum favicon: navy tile, solid gold shield, navy proof-of-life pulse. Solid shapes stay legible at 16px. -->
+  <rect width="48" height="48" rx="10" fill="#192857"/>
+  <path d="M24 6.5 9.5 13v10.6c0 9 6 16.9 14.5 19 8.5-2.1 14.5-10 14.5-19V13L24 6.5z" fill="#DAA11B"/>
+  <path d="M14.5 25.5h5l2.5-6.5 4 11.5 2.5-5h5" stroke="#192857" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
